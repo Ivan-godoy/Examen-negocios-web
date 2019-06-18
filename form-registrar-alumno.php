@@ -16,8 +16,8 @@
     <hr>
     <br>
     <ul id="opciones">
-        <li><a href="form-registrar-alumno.php">Ver alumnos registrados</a></li>
-        <li><a href="ver-alumnos.php">Registrar un nuevo alumno</a></li>
+        <li><a href="ver-alumnos.php">Ver alumnos registrados</a></li>
+        <li><a href="form-registrar-alumno.php">Registrar un nuevo alumno</a></li>
     </ul>
 </div>
 <div class="container">
